@@ -26,15 +26,10 @@ The technical documentation and evaluation work behind Bailiwick's browser-local
 
 ### [Vulnerability research](https://github.com/jacobbabula/vulnerability-research)
 
-Application-security research built around careful reproduction and responsible disclosure. The public repository contains sanitized methodology and writeups; confidential or uncleared vendor details are left out.
-
+Application-security research built around careful reproduction and responsible disclosure.
 `Application security` `Source review` `Threat modeling` `Responsible disclosure`
 
-## How I build
 
-I like being able to show exactly what was tested and what still needs work. A passing local test, a successful browser run, and a production release are useful in different ways, so I keep those claims separate.
-
-For Bailiwick, AI is there to help the learner, not run the system. Grades, permissions, publishing, and progress are handled by deterministic application logic. My security work follows the same practical approach: reproduce carefully, minimize impact, and publish only when disclosure allows it.
 
 ## Current focus
 
