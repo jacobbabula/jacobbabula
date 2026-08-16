@@ -27,9 +27,17 @@ The technical documentation and evaluation work behind Bailiwick's browser-local
 ### [Vulnerability research](https://github.com/jacobbabula/vulnerability-research)
 
 Application-security research built around careful reproduction and responsible disclosure.
+
 `Application security` `Source review` `Threat modeling` `Responsible disclosure`
 
+### [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) | open-source contributor
 
+Contributions to the UK AI Security Institute's LLM evaluation framework, including a merged model-role configuration feature and ongoing OpenAI provider reliability work.
+
+- [Merged PR #4783](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4783) — added serializable required model roles for model-graded scorers, including log round-trip coverage.
+- [PR #4900](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4900) — improves retry handling for transient failures while polling OpenAI background responses.
+
+`Python` `LLM evaluation` `OpenAI` `Testing`
 
 ## Current focus
 
