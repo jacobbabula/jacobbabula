@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610" role="img" aria-labelledby="title desc">
+  <title id="title">Jake Babula terminal profile</title>
+  <desc id="desc">A terminal-style dashboard showing Jake's technical stack, product engineering, applied AI, open-source work, application-security research, and measured codebase scale.</desc>
+  <style>
+    .bg { fill: #ffffff; }
+    .panel { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 2; }
+    .line { stroke: #8c959f; stroke-width: 2; fill: none; }
+    .node { fill: #ffffff; stroke: #0969da; stroke-width: 2; }
+    .node-ai { fill: #ffffff; stroke: #8250df; stroke-width: 2; }
+    .node-db { fill: #ffffff; stroke: #1a7f37; stroke-width: 2; }
+    .text { fill: #24292f; font: 22px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .small { fill: #57606a; font: 18px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .tiny { fill: #6e7781; font: 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .heading { fill: #bc4c00; font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1px; }
+    .cyan { fill: #0969da; }
+    .purple { fill: #8250df; }
+    .green { fill: #1a7f37; }
+    .orange { fill: #bc4c00; }
+    .bold { font-weight: 700; }
+    .portrait { fill: #24292f; font: 10.2px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+
+  <rect x="18" y="18" width="1164" height="574" rx="16" fill="none" stroke="#d0d7de" stroke-width="2"/>
+  <rect class="panel" x="18" y="18" width="1164" height="64" rx="16"/>
+
+  <circle cx="48" cy="51" r="7" fill="#cf222e"/>
+  <circle cx="72" cy="51" r="7" fill="#bf8700"/>
+  <circle cx="96" cy="51" r="7" fill="#1a7f37"/>
+  <text class="text bold" x="126" y="60">jake@bailiwick:~$ <tspan class="cyan">status</tspan></text>
+  <text class="small" x="1148" y="58" text-anchor="end">education × security</text>
+  <path class="line" d="M36 82 H1164"/>
+
+  <!-- ASCII_PORTRAIT_START -->
+  <text xml:space="preserve" style="fill: #24292f; font: 7.11806px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <tspan x="44" y="101.0"></tspan>
+    <tspan x="44" y="107.8"></tspan>
+    <tspan x="44" y="114.6">                                       ucJj</tspan>
+    <tspan x="44" y="121.4">                                0uQdkaaooooooopL</tspan>
+    <tspan x="44" y="128.2">                             QQJhokhwJwahhaoaooooaC</tspan>
+    <tspan x="44" y="135.0">                            QdphooohqmJ0hhooooadwbok</tspan>
+    <tspan x="44" y="141.7">                         jQbOmQvJQmkhooqqbkhooooohaooU</tspan>
+    <tspan x="44" y="148.5">                       XpboqowQULwdkkhhadbaoooaoooooooZ</tspan>
+    <tspan x="44" y="155.3">                       xhhpqkppaZboqooohbooooaabkbkooooJ</tspan>
+    <tspan x="44" y="162.1">                      jYphahbhakmobbhbhdmpbwkoooowOaaook</tspan>
+    <tspan x="44" y="168.9">                      JdqooaoaaqhooophoZUCYCZhokhddaooooq</tspan>
+    <tspan x="44" y="175.7">                      XhoahooahhapUJ0CJLJrjzYpadbqphooooo</tspan>
+    <tspan x="44" y="182.5">                      XpbhdaoookQ|_+~i+}|)?1xXwOJOQZqhooo</tspan>
+    <tspan x="44" y="189.3">                      rkaqwQJLUf-l!l;;;;I!ii]/Xr\nnvzQboo</tspan>
+    <tspan x="44" y="196.1">                       bq0O1__}]llI:,,,;IIIl~[1[]{)|/jXbo</tspan>
+    <tspan x="44" y="202.9">                       XQqC-+i~?+l:,^&quot;&quot;,:;;III!~_]}}){jJd</tspan>
+    <tspan x="44" y="209.7">                        fLJ+i!l!il:&quot;&quot;&quot;&quot;,:;;I;:;l~?{{}][!~]</tspan>
+    <tspan x="44" y="216.4">                          L[~i!llI:,:,&quot;,;;IllIIli?{{+;:,;;</tspan>
+    <tspan x="44" y="223.2">                          x/?+!llI;,&quot;,l-~__-i!!!!+}1l&quot;l&quot;:I+</tspan>
+    <tspan x="44" y="230.0">                           f}-!IlI;:_)1+IIl!lll!!~?[+IlI;I_</tspan>
+    <tspan x="44" y="236.8">                           (?!;;lII-]-{))1-~!::Il~?]_;I,i:_</tspan>
+    <tspan x="44" y="243.6">                           /n/(_iI;ll?1?rj}il:,;l~-??:+i;,?</tspan>
+    <tspan x="44" y="250.4">                            j)tuc]&quot;:;~1-_lII;;;l!+_--+-::l</tspan>
+    <tspan x="44" y="257.2">                            1n[|Y/:;Ii--illI;Il!~+_--!^,:]</tspan>
+    <tspan x="44" y="264.0">                             uj[t(;llIIl!!l:::l~___-]}~!?</tspan>
+    <tspan x="44" y="270.8">                             (|1\1I!!iI;ll;,,:l~~~+-{)}\</tspan>
+    <tspan x="44" y="277.6">                             (]]1[I!~-+l!I:,,;l!!~+-))_(</tspan>
+    <tspan x="44" y="284.4">                              [_}~&quot;:~+~i!l:&quot;,:Illi+-))~)</tspan>
+    <tspan x="44" y="291.1">                              (~-]~~iiilll:,,:;Ili_-|{i{</tspan>
+    <tspan x="44" y="297.9">                              /?l?x-;,;;:;::,:;II!_{t?i](</tspan>
+    <tspan x="44" y="304.7">                               (~-f_!!iiilI:,;IIli?/1ii-(</tspan>
+    <tspan x="44" y="311.5">                                1]1t|(}]+l;:::Il!+|(~li+(</tspan>
+    <tspan x="44" y="318.3">                                 (_n|_~I;::;;;I!_(|~Ili+?0J</tspan>
+    <tspan x="44" y="325.1">                                  )({!~~l:::;I!]\(+I;Ii~+|oL</tspan>
+    <tspan x="44" y="331.9">                                   X(-_i;,,:l_1|{_l;;I!i~-Lop</tspan>
+    <tspan x="44" y="338.7">                                JmkoJ}i!:;l_{1]+il;;Il!ii!JhooqJ</tspan>
+    <tspan x="44" y="345.5">                             Qdooooohf]--{|([+!!lI;Il!!il~Okaaaoohmz</tspan>
+    <tspan x="44" y="352.3">                          Cdoooakhaahv)}{\f{+i!ll;IIl!!iI[qkaahkkkaoaqU</tspan>
+    <tspan x="44" y="359.1">                    JOqboooahhakkhhhaX)]_+?[?~!lIIIIl!!!Ifbdhahkkkbbkhoowv</tspan>
+    <tspan x="44" y="365.9">                Jwhaaaooahkkkhhdbkhom{|[~!li++ilIIIl!!ilicbpbkhkbkkbbbbkaoabwLn</tspan>
+    <tspan x="44" y="372.6">              poooahaaahkkkkkhohkhhomlI]?ilI!~ii!lIl!l!i!xkpddbkdkkbbdddbbkhhaohOr</tspan>
+    <tspan x="44" y="379.4">             JohaaooahkbbbbkhhhhkkhoO;^^!~ilIIl!ilIll!i;;vkpdddbhkbbdddddbkkkkkhaokL</tspan>
+    <tspan x="44" y="386.2">             whhaaahkbbbbbkhkbkkkkhoml^^^^,;lIl~_~liI,^^:Lbddddddbbbdddddbbbkkhkkkdo</tspan>
+    <tspan x="44" y="393.0">            vokkhkkkddddbbkhbdbkkkhawl^^^^^^^^&quot;,,^^^^^^^lwbddddddddbdddddddddbbbbkdaJ</tspan>
+    <tspan x="44" y="399.8">            qobbkkbbdddddbbhkdbbbkhhw!^^^^^^^^^^^^^^^^^^-ddddddbddbbddddddddddddbkdhh</tspan>
+    <tspan x="44" y="406.6">           zohkdkbbddddddbbhkdbbkkhhp~^^^^^^^^^^^^^^^^^^|kdddddbbdbdddpddddppppdbkbhoC</tspan>
+    <tspan x="44" y="413.4">           hahkdkbdddddddbkkhddbkkhhd-^^^^^^^^^^^^^^^^^&quot;vkpddddbbdbdddpppdpqqqpqbbbaho</tspan>
+    <tspan x="44" y="420.2">          Jokhkdkdddddddbbbkhdbbbkhhb}^^^^^^^^^^^^^^^^^;Lbdddpddddbddddpppppppqqkdkahab</tspan>
+    <tspan x="44" y="427.0">          dhhhkdkbbddbddbbbkhbdddbkkb|^^^^^^^^^^^^^^^^^iwpdddddbdbdpdpppppqqqqqqkdkhhhoL</tspan>
+    <tspan x="44" y="433.8">          okhhkdkbbdbbbbbkkkhbpddbkbkr^^^^^^^^^^^^^^^^^1bpdppddddbppdpqqpqqqpqpdkdhhhhko</tspan>
+    <tspan x="44" y="440.6">         Zohhhhdkkbbbbbbbbkbkkppddkkkv&quot;^^^^^^^^^^^^^^^^nbqdpppdddbpppppppqqqqppbbbhhhhhoO</tspan>
+    <tspan x="44" y="447.3">         hahhhhbkkkkbbkkbbbkkkpqddkkkJ:^^^^^^^^^^^^^^^IQdpdppddpbdpppppppqppppdkbkhhhhhha</tspan>
+    <tspan x="44" y="454.1">         ohhhhhkkkkkbkkkbbbbbkdqdbbkbOl^^^^^^^^^^^^^^^_pppppdddddqppppppqqpdpddhbkhhhhhhoY</tspan>
+    <tspan x="44" y="460.9">        qohhhkhkkhkkkkkbbbbbbkbppdbkbq~^^^^^^^^^^^^^^^\kqppdddpddpqpppppddpdddkhbhhhhhhhad</tspan>
+    <tspan x="44" y="467.7">        aahhhkkkkahhkkkbbbbbbbkdddbkbb}^^^^^^^^^^^^^^,zbqppddpdbddpppqpddbddbbakbahhhhhaho</tspan>
+    <tspan x="44" y="474.5">       Ooaahkhkkkaahkkkbbbbbddbdpdbkbkt^^^^^^^^^^^^^^lZppppdddbbdpdddpdbkkbkkhabhhkhaahaao0</tspan>
+    <tspan x="44" y="481.3">       koahhhkkhkaoahkkbkbbbdddbpddbbkv&quot;^^^^^^^^^^^^^}bqpddddddddddddbbkahhkhaakhkhahhhaaod</tspan>
+    <tspan x="44" y="488.1">       qooahhkbkahoahkkkkbbbdddkdddbkbC;^^^^^^^^^^^^^xkpdppddddddpddbbkhhhhhaohkhoohkhhaoaa</tspan>
+    <tspan x="44" y="494.9">       oaaooahhbkhooahkkkbbbdddbbddbkbm!^^^^^^^^^&quot;^^IQbpdpddddqqqpddbbkhhhhhoakaohkkhhaaoaoX</tspan>
+    <tspan x="44" y="501.7">      Uoaaaaoahhhhooaahkkbbbbdddkddbkbd]^^^^^^^^^&quot;^^-dppdddddpqpdddbkkkhkhaaoaahbbbkhhaaaaow</tspan>
+    <tspan x="44" y="508.5">      qoaoahaahaaaoooahhkkbbbbbdbbdbkbk/^^^^^^^^^&quot;^^jkqdddddddddddbbkkhhhaaooahbkkkahaaaoaom</tspan>
+    <tspan x="44" y="515.3">      oaaaohkahhhhaoooahhkkbbbbbbkbbkbkc,^^^^^^^^^^;Lbdddddbddddddbkkhhaaaooohkkkkahhhaooaow</tspan>
+    <tspan x="44" y="522.0">     0oaaaaohkhhkhooooaaahkbbbbbbkkbkkkQI^^^^^^^&quot;^^?dpddddbbddddbbbkhhhaaoooahkhhakkhaoaaaoa</tspan>
+    <tspan x="44" y="528.8">     hoaaaaaakkkhaooooooahkkkbbbbkkbkkbp~^^^^^^^^&quot;&quot;rhpdddbkbdddbbkkhahaaoooooahhkhhkhoahaaao</tspan>
+    <tspan x="44" y="535.6">     oaaaaahahhhhaoooooaahkkkkkbbbhbbkbk)^^^^^^^^&quot;ILkbbbbbkbbdbbkkhhaaaoooooaaahaakhohhaaaaoQ</tspan>
+    <tspan x="44" y="542.4">    Ooaahhaahhhaaooooooooahhhkkkkbkkbkbhn^^^^^^^^&quot;?ddbbbbkddbbkkhhhaaaooooooahhhahhoahaoaaaob</tspan>
+    <tspan x="44" y="549.2">    hoaaaahhahhhhaooaooooahhhkkbbbbkkkkkC,^^^^^^&quot;&quot;jhdbbbkbdbbkkhhhaaaooooooooahhhhohhaoaaoooo</tspan>
+    <tspan x="44" y="556.0">    oaoaaaaahhhhaooombooooahhhkkbbbkkkkkw~^,&quot;&quot;&quot;,&quot;!CkdbbbkddbbkkhhaaooooooaoooaaahhhhaaaaaooaoY</tspan>
+  </text>
+<!-- ASCII_PORTRAIT_END -->
+
+  <rect class="panel" x="534" y="104" width="630" height="458" rx="12"/>
+  <text class="heading" x="558" y="139">STACK</text>
+  <text class="small" x="558" y="174"><tspan class="orange">Languages</tspan><tspan> .... C++ · Python · TypeScript · SQL</tspan></text>
+  <text class="small" x="558" y="207"><tspan class="orange">ML</tspan><tspan> .......... PyTorch · Transformers.js · ONNX</tspan></text>
+  <text class="small" x="558" y="240"><tspan class="orange">Data</tspan><tspan> ........ Postgres · Supabase RLS · pgTAP</tspan></text>
+  <text class="small" x="558" y="273"><tspan class="orange">Runtime</tspan><tspan> ..... Web Worker · WebGPU</tspan></text>
+
+  <path class="line" d="M558 300 H1140"/>
+  <text class="heading" x="558" y="334">WORK</text>
+  <text class="small" x="558" y="369"><tspan class="cyan">Product</tspan><tspan> ...... role-aware learning systems</tspan></text>
+  <text class="small" x="558" y="402"><tspan class="purple">Applied AI</tspan><tspan> ... fine-tuning · browser inference · evals</tspan></text>
+  <text class="small" x="558" y="435"><tspan class="green">Open source</tspan><tspan> .. Python tooling · reliability · tests</tspan></text>
+  <text class="small" x="558" y="468"><tspan class="orange">AppSec</tspan><tspan> ....... source review · auth tracing · safe repro</tspan></text>
+
+  <path class="line" d="M558 492 H1140"/>
+  <text class="heading" x="558" y="526">CODEBASE</text>
+  <text class="tiny" x="690" y="526">84.6k lines · 352 files · 102 tests · 6 languages</text>
+  <text class="tiny" x="1140" y="548" text-anchor="end">tracked-source snapshot · 2026-08-23</text>
+</svg>
