@@ -30,7 +30,6 @@
   <circle cx="72" cy="51" r="7" fill="#d29922"/>
   <circle cx="96" cy="51" r="7" fill="#3fb950"/>
   <text class="text bold" x="126" y="60">README.md</text>
-  <text class="small" x="1148" y="58" text-anchor="end">education × security</text>
   <path class="line" d="M36 82 H1164"/>
 
   <!-- ASCII_PORTRAIT_START -->
@@ -109,26 +108,25 @@
   <rect class="panel" x="516" y="104" width="648" height="620" rx="12"/>
   <text class="dense bold" x="540" y="133"><tspan class="cyan">jake@babula</tspan><tspan> -------------------------------------------</tspan></text>
 
-  <text class="dense" x="540" y="164"><tspan class="orange">OS</tspan><tspan> ..................... ---</tspan></text>
-  <text class="dense" x="540" y="192"><tspan class="orange">Uptime</tspan><tspan> ................. ---</tspan></text>
-  <text class="dense" x="540" y="220"><tspan class="orange">Host</tspan><tspan> ................... ---</tspan></text>
-  <text class="dense" x="540" y="248"><tspan class="orange">Kernel</tspan><tspan> ................. ---</tspan></text>
-  <text class="dense" x="540" y="276"><tspan class="orange">IDE</tspan><tspan> .................... ---</tspan></text>
+  <text class="dense" x="540" y="164"><tspan class="orange">OS</tspan><tspan> ..................... human</tspan></text>
+  <text class="dense" x="540" y="192"><tspan class="orange">Uptime</tspan><tspan> ................. 5840 days</tspan></text>
+  <text class="dense" x="540" y="220"><tspan class="orange">Host</tspan><tspan> ................... USA</tspan></text>
+  <text class="dense" x="540" y="248"><tspan class="orange">Kernel</tspan><tspan> ................. Brain</tspan></text>
+  <text class="dense" x="540" y="276"><tspan class="orange">IDE</tspan><tspan> .................... VS Code</tspan></text>
 
-  <text class="dense" x="540" y="320"><tspan class="orange">Languages.Programming</tspan><tspan> ... TypeScript · Python · SQL · C++</tspan></text>
-  <text class="dense" x="540" y="348"><tspan class="orange">Languages.Computer</tspan><tspan> ...... HTML · CSS · JSON · YAML</tspan></text>
-  <text class="dense" x="540" y="376"><tspan class="orange">Languages.Real</tspan><tspan> .......... English · a little French · a little Spanish</tspan></text>
+  <text class="dense" x="540" y="332"><tspan class="orange">Languages.Programming</tspan><tspan> .. Python - Java - SQL</tspan></text>
+  <text class="dense" x="540" y="364"><tspan class="orange">Languages.Real</tspan><tspan> ......... English, Norwegian-ish, Swedish-ish, </tspan><tspan x="738" y="392">Danish-ish, French-ish</tspan></text>
 
-  <text class="dense" x="540" y="420"><tspan class="orange">Hobbies.Software</tspan><tspan> ....... vuln testing · game scripting</tspan></text>
-  <text class="dense" x="540" y="448"><tspan class="orange">Hobbies.Hardware</tspan><tspan> ....... low-end PC optimization</tspan></text>
+  <text class="dense" x="540" y="427"><tspan class="orange">Hobbies.Life</tspan><tspan> ........... language learning · doomscrolling · coding</tspan></text>
+  <text class="dense" x="540" y="455"><tspan class="orange">Hobbies.Software</tspan><tspan> ....... vuln testing · attempting fine-tunes</tspan></text>
 
   <text class="dense" x="540" y="490">- Contact -----------------------------------------------</text>
   <text class="dense" x="540" y="520"><tspan class="orange">Email</tspan><tspan> .................. jakebabula13@gmail.com</tspan></text>
   <text class="dense" x="540" y="548"><tspan class="orange">LinkedIn</tspan><tspan> ............... linkedin.com/in/jacob-babula</tspan></text>
   <text class="dense" x="540" y="576"><tspan class="orange">GitHub</tspan><tspan> ................. jacobbabula</tspan></text>
 
-  <text class="dense" x="540" y="618">- Build Stats -------------------------------------------</text>
-  <text class="dense" x="540" y="648"><tspan class="orange">Lines of Code</tspan><tspan> .......... 91,066 (</tspan><tspan class="green">96,630++</tspan><tspan> · </tspan><tspan class="red">5,564--</tspan><tspan>)</tspan></text>
-  <text class="dense" x="540" y="676"><tspan class="orange">Tests</tspan><tspan> .................. 102 test files</tspan></text>
-  <text class="dense" x="540" y="704"><tspan class="orange">Languages</tspan><tspan> .............. 6 in tracked source</tspan></text>
+  <text class="dense" x="540" y="618">- Build Stats · Bailiwick Languages ----------------------</text>
+  <text class="dense" x="540" y="648"><tspan class="orange">Lines of Code</tspan><tspan> .......... 441,095 (</tspan><tspan class="green">456,821++</tspan><tspan>&#160;·&#160;</tspan><tspan class="red">15,726--</tspan><tspan>)</tspan></text>
+  <text class="dense" x="540" y="676"><tspan class="orange">Tests</tspan><tspan> .................. 585 test files</tspan></text>
+  <text class="dense" x="540" y="704"><tspan class="orange">Source Files</tspan><tspan> ........... 2,454 tracked files</tspan></text>
 </svg>
